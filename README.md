@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dwezzy
 - 👀 I’m interested in ... building my tech skills
-- 🌱 I’m currently learning ... software engineering
+- 🌱 I’m currently learning ... software engineering from AltSchool Africa
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... via mail:ogunleyeoludayo@gmail.com
 
